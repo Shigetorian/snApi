@@ -1,6 +1,8 @@
 # snApi
 universal library for the development of soc. network, based on the yadisk library
 
+Yadisk library: https://yadisk.readthedocs.io/ru/latest/docs.html
+
 Требования:
 - Аккаунт Яндекс
 - Oauth-приложение с доступом api
