@@ -8,6 +8,7 @@ Yadisk library: https://yadisk.readthedocs.io/ru/latest/docs.html
 - Oauth-приложение с доступом api
 
 Инструкция:
+- На диске должны быть созданы папки users и files
 - Токен приложения вставить в:
 
       def __fs_init(self):
