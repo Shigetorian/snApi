@@ -4,5 +4,8 @@ universal library for the development of soc. network, based on the yadisk libra
 Требования:
 - Аккаунт Яндекс
 - Oauth-приложение с доступом api
-- Токен приложения, добавить в переменную server_main
+- Токен приложения вставить в:
 
+      def __fs_init(self):
+        self.server_main = "<token>"
+	
