@@ -30,3 +30,7 @@ Yadisk library: https://yadisk.readthedocs.io/ru/latest/docs.html
 			except:
 			    self.pbar = False
 			    return False
+
+
+Даты обновлений:
+19/03 - первое неполное слияние с интерфейсом
